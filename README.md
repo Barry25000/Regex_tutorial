@@ -64,7 +64,8 @@ The character classes utilized in this regex expression are [a-z0-9_\.-], [\da-z
 
 Other examples of single characters:
 
-\d can be used to match any digit (0-9), \w to match any alphanumeric character (a-zA-Z0-9), and \s any white space such as a space or a tab
+\d can be used to match any digit (0-9), \w to match any alphanumeric character (a-zA-Z0-9).
+\s any white space such as a space or a tab.
 
 ### Character Escapes
 
