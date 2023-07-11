@@ -35,9 +35,10 @@ Quantifiers are meta characters that modify the previous character in the expres
 
 Quantifiers allow the specification of how many character or character classes should be matched.
 
-    The + sign, the preceding item has to match 1 or more times.
+The + sign, the preceding item has to match 1 or more times.
 
-    {min, max}, creates a specific minimum and maximum that the expression has to match to be valid, the min, max is used at the end of the regex expression to give a specific range to the domain name system.
+{min, max}, creates a specific minimum and maximum that the expression has to match to be valid, the min, max is used
+at the end of the regex expression to give a specific range to the domain name system.
 
 ### Grouping Constructs
 
